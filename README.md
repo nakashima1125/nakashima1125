@@ -1,5 +1,4 @@
 # nakshima1125
-aaaaaaa
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nakashima1125&count_private=true&show_icons=true&include_all_commits=true" />
 </span>
